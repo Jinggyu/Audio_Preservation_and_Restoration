@@ -1,8 +1,6 @@
-<div style="border: 2px dotted #000; padding: 10px; margin: 10px;">
-  <p>- This is a work sample of an audio Preservation and Restoration project I've done.</p>
-  <p>- The following texts document all the Metadata and processing steps regarding the vinyl recording digitization and restoration.</p>
-  <p>- Audio samples are in the folder.</p>
-</div>
+- This is a work sample of an audio Preservation and Restoration project I've done. 
+- The following texts document all the Metadata and processing steps regarding the vinyl recording digitization and restoration. 
+- Audio samples are in the folder.
 
 
 
@@ -12,7 +10,7 @@
 <div align="center"><img width="299" alt="Image" src="https://github.com/user-attachments/assets/98a28049-c8f1-426c-b132-fab4d9cf6bbe" />
 <img width="295" alt="Image" src="https://github.com/user-attachments/assets/c7ea5caf-b4bd-4c91-8604-222a83028944" /> </div>
 
----
+
 Title | [The Varsity Seven](https://www.discogs.com/artist/1524495-Varsity-Seven) – Scratch My Back / Save It Pretty Mama
 -- | --
 Label | Varsity
@@ -76,10 +74,9 @@ Audio Object Compressed|  
 Name Side A | Scratchmyback_VarsitySeven 
 Name Side B | Saveitprettymama_VarsitySeven
 Sampling rate | 44.1 kHz
-Bit depth | 16 bit
-File format | .wav
+File format | 128 kbps MP3
 Duration | Side A: 3:23; Side B: 3:14
-File size | Side A: 117.3 MB; Side B: 112.1 MB
+File size | Side A: 8.1 MB; Side B: 7.8 MB
 
 ---
 ### Audio Restoration Steps
@@ -98,8 +95,8 @@ File size | Side A: 117.3 MB; Side B: 112.1 MB
 
 | File Content | Scratch my back | Save it pretty, mama |
 |-------------|---------------------|----------------|
+| Name | RX_Scratchmyback_VarsitySeven | RX_Saveitprettymama_VarsitySeven
 | Sampling Rate | 44.1 kHz | 44.1 kHz | 
-| Bit Depth | 16 Bit | 16 Bit |
-| File Format | .wav | .wav |
+| File Format | 128 kbps MP3 | 128 kbps MP3 |
 | Duration |3'18" | 3'04" | 
-| File Size | 76.1 MB | 70.5 MB| 
+| File Size | 7.9 MB | 7.3 MB| 
