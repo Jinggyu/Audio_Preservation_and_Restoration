@@ -1,6 +1,6 @@
 - This is a work sample of an audio Preservation and Restoration project I've done. 
 - The following texts document all the Metadata and processing steps regarding the vinyl recording digitization and restoration. 
-- Audio samples are in the folder.
+- Audio samples are available in the folder. Due to GitHub's file size limitations, only compressed (MP3) versions are included. Files prefixed with `RX_` denote restored versions.
 
 
 
