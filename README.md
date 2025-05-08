@@ -82,19 +82,32 @@ Digitalizing location | 35 West 4th Street, New York, NY 10012, USA
 | **File Size**       | 8.1 MB          | 7.8 MB               |
 
 ---
-### Audio Restoration Steps
--  **Denoise**: Initial noise reduction using RX software.
-   - Parameters: Threshold at 0, Reduction at -15 dB.
-   - Conducted multiple passes to refine noise reduction.
+### Audio Restoration Steps (iZotope RX 3)
 
--  **Declick**: Removal of click noises.
-   - Parameters: Sensitivity at 3.8, Frequency Skew at 8.6, Click Widening at 2.7 ms.
-   - Applied multiple times to ensure effective removal of clicks.
+#### 1. Broad Noise Reduction
+Tool: Spectral De-noise (Modern algorithm)
+Steps:
+- Capture noise profile from silent groove section (1-2 sec)
+- Apply gentle reduction:
+   - Threshold: -24 dB 
+   - Reduction: 6-12 dB 
+- Process in 2-3 passes
+ 
+#### 2. Click/Pop Removal
+Tool: Declick (Multiband mode)
+Parameters:
+- Sensitivity: 4.0 
+- Frequency Skew: 8.6 (mid/high focus)
+- Click Widening: 2.5 ms
 
--  **Manual Cleaning**: Detailed manual removal of residual noises.
-   - Involved zooming into the spectrum to identify and delete unwanted sounds.
-
-### Audio File Metadata (Uncompressed)
+#### 3. Residual Noise Cleanup
+Tool: Spectral Repair
+Method:
+- Zoom to 256-512 FFT resolution
+- Use "Attenuate" mode (preserves harmonics)
+- Target only visible noise spikes
+   
+### Restored Audio File Metadata (Uncompressed)
  | File Content | Scratch my back | Save it pretty, mama |
  |-------------|---------------------|----------------|
  |  **Name** | RX_Scratchmyback_VarsitySeven | RX_Saveitprettymama_VarsitySeven
@@ -104,7 +117,7 @@ Digitalizing location | 35 West 4th Street, New York, NY 10012, USA
  | **Duration** | 3'18" | 3'04" |
  | **File Size** | 76.1 MB | 70.5 MB |
 
-### Audio File Metadata (compressed)
+### Restored  Audio File Metadata (compressed)
 | File Content | Scratch my back | Save it pretty, mama |
 |-------------|---------------------|----------------|
 |  **Name** | RX_Scratchmyback_VarsitySeven | RX_Saveitprettymama_VarsitySeven
