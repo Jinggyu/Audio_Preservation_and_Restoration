@@ -1,4 +1,4 @@
-- This is a work sample of an audio preservation and restoration project I've done. Audio samples are available in the folder. Due to GitHub's file size limitations, only compressed (MP3) versions are included.
+- This is a work sample of a record preservation and restoration project I completed. The audio files are available in the folder. Due to GitHub's file size limitations, only compressed MP3 versions are included.
 - Audio files without the RX_ prefix are the original digitized versions. Files with the RX_ prefix are the restored versions.
 - The following texts document all the Metadata and processing steps regarding the vinyl recording digitization and restoration. 
 
