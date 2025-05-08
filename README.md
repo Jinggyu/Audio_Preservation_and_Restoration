@@ -59,24 +59,27 @@ Recording software | Pro Tools
 Digitalizing time | 11-19-2014, 4:51 pm
 Digitalizing location | 35 West 4th Street, New York, NY 10012, USA
 
-Audio Object |  
--- | --
-Name Side A | Scratchmyback_VarsitySeven 
-Name Side B | Saveitprettymama_VarsitySeven
-Sampling rate | 96 kHz
-Bit depth | 24 bit
-File format | .wav
-Duration | Side A: 3:23; Side B: 3:14
-File size | Side A: 117.3 MB; Side B: 112.1 MB
+### Audio File Metadata (Uncompressed)
 
-Audio Object Compressed|  
--- | --
-Name Side A | Scratchmyback_VarsitySeven 
-Name Side B | Saveitprettymama_VarsitySeven
-Sampling rate | 44.1 kHz
-File format | 128 kbps MP3
-Duration | Side A: 3:23; Side B: 3:14
-File size | Side A: 8.1 MB; Side B: 7.8 MB
+| File Content          | Scratch my back | Save it pretty, mama |
+|----------------------|-----------------|----------------------|
+|  **Name** | Scratchmyback_VarsitySeven | Saveitprettymama_VarsitySeven
+| **Sampling Rate**    | 96 kHz          | 96 kHz               |
+| **Bit Depth**        | 24 Bit          | 24 Bit               |
+| **File Format**      | .wav            | .wav                 |
+| **Duration**        | 3'23"           | 3'14"                |
+| **File Size**       | 117.3 MB        | 112.1 MB             |
+
+### Audio File Metadata (Compressed)
+
+| File Content          | Scratch my back | Save it pretty, mama |
+|----------------------|-----------------|----------------------|
+|  **Name** | Scratchmyback_VarsitySeven | Saveitprettymama_VarsitySeven
+| **Sampling Rate**    | 44.1 kHz        | 44.1 kHz             |
+| **Bit Depth**        | -               | -                    |
+| **File Format**      | 128 kbps MP3    | 128 kbps MP3         |
+| **Duration**        | 3'23"           | 3'14"                |
+| **File Size**       | 8.1 MB          | 7.8 MB               |
 
 ---
 ### Audio Restoration Steps
@@ -91,12 +94,22 @@ File size | Side A: 8.1 MB; Side B: 7.8 MB
 -  **Manual Cleaning**: Detailed manual removal of residual noises.
    - Involved zooming into the spectrum to identify and delete unwanted sounds.
 
-### Audio File Metadata
+### Audio File Metadata (Uncompressed)
+ | File Content | Scratch my back | Save it pretty, mama |
+ |-------------|---------------------|----------------|
+ |  **Name** | RX_Scratchmyback_VarsitySeven | RX_Saveitprettymama_VarsitySeven
+ | **Sampling Rate** | 44.1 kHz | 44.1 kHz |
+ | **Bit Depth** | 16 Bit | 16 Bit |
+ | **File Format** | .wav | .wav |
+ | **Duration** | 3'18" | 3'04" |
+ | **File Size** | 76.1 MB | 70.5 MB |
 
+### Audio File Metadata (compressed)
 | File Content | Scratch my back | Save it pretty, mama |
 |-------------|---------------------|----------------|
-| Name | RX_Scratchmyback_VarsitySeven | RX_Saveitprettymama_VarsitySeven
-| Sampling Rate | 44.1 kHz | 44.1 kHz | 
-| File Format | 128 kbps MP3 | 128 kbps MP3 |
-| Duration |3'18" | 3'04" | 
-| File Size | 7.9 MB | 7.3 MB| 
+|  **Name** | RX_Scratchmyback_VarsitySeven | RX_Saveitprettymama_VarsitySeven
+|  **Sampling Rate** | 44.1 kHz | 44.1 kHz | 
+| **Bit Depth**        | -               | -                    |
+|  **File Format** | 128 kbps MP3 | 128 kbps MP3 |
+|  **Duration** |3'18" | 3'04" | 
+|  **File Size** | 7.9 MB | 7.3 MB| 
