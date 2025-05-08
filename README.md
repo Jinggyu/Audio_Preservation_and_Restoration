@@ -1,4 +1,12 @@
+<div style="border: 2px dotted #000; padding: 10px; margin: 10px;">
+  <p>- This is a work sample of an audio Preservation and Restoration project I've done.</p>
+  <p>- The following texts document all the Metadata and processing steps regarding the vinyl recording digitization and restoration.</p>
+  <p>- Audio samples are in the folder.</p>
+</div>
 
+
+
+---
 ### <div align="center">**Record Preservation and Restoration Metadata** </div>
 
 <div align="center"><img width="299" alt="Image" src="https://github.com/user-attachments/assets/98a28049-c8f1-426c-b132-fab4d9cf6bbe" />
