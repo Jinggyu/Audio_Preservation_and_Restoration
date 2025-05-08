@@ -44,7 +44,6 @@ Physical Grade | Good to Fair. The vinyl record has continuous low-level crackle
 
 #### Recording
 - The presence of sharp noise was noted, although the music remained clear due to the distinct separation of noise and music frequencies.
-- The sharp and pronounced noise was attributed to the use of an incorrect stylus.
 - During the recording of Side B, distinct distortions were detected, indicative of the stylus jumping and trembling within the groove.
 - The phonograph's native stylus was determined to be thicker than the correct stylus, which features a truncated tip.
 
